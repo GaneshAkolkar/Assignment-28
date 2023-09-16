@@ -1,0 +1,11 @@
+1. Create a table (student) with 3 columns (rollno, name, course).
+2. Insert records for 4 students.
+3. Write a Select query to fetch all the students.
+4. Update the student name of rollno 3 with ‘Mohan’
+5. Delete any student from table with their rollno.
+6. Delete all the data from student table.
+7. Drop the student table.
+8. Create Courses table (cid, cname) where cid is a primary key and Student table
+(rollno, name, cid) where rollno is a primary key and cid is a foreign key.
+9. Insert data in both the tables.
+10. Select all the students who are doing a specific course, eg. Python.
